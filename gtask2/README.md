@@ -23,7 +23,7 @@
 Clone this repository
 
 ```shell
-git clone https://github.com/abdibrokhim/CodeClause-Internship-Solutions/
+git clone https://github.com/abdibrokhim/CodeClause-Internship-Solutions/tree/main/gtask2
 ```
 
 Open a terminal and navigate to the directory where you cloned the repository.
